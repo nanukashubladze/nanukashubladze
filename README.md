@@ -1,6 +1,6 @@
 [![MasterHead](https://wallpapercave.com/wp/wp2763910.gif)](https://github.com/nanukashubladze)
 <h1 align="center">Hi 👋, I'm Nanuka Shubladze</h1>
-<h3 align="center">Junior front-end developer from Georgia</h3>
+<h3 align="center"> Front-end developer from Georgia</h3>
 <img align="right" alt="" width="400" scr="https://tse1.mm.bing.net/th?id=OIP.N4j1kKM0IHHhaVfQR7xD0wHaGk&pid=Api&P=0&h=180">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanukashubladze&label=Profile%20views&color=0e75b6&style=flat" alt="nanukashubladze" /> </p>
